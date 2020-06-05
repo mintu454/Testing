@@ -1,0 +1,36 @@
+create folder in Desktop
+
+in CMD go to specified folder
+
+type git clone <url>
+git pull
+
+cd web-analytics
+
+create a folder:
+mkdir <your-folder-name>
+
+cd <your-folder-name>
+
+git branch 
+[if master,change to assignment by 
+git pull <remote> <branch-name>,
+git checkout assignment]
+
+cd ..
+
+git add <your-folder-name>
+
+cd <your-folder-name>
+
+git add <your-file-names>
+
+git status
+
+git commit -m "Your message"
+
+git push
+
+check in browser github.com
+
+add pull request 
